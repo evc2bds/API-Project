@@ -1,3 +1,5 @@
+#Eloise Cunningham 10/20/21
+
 import tweepy
 
 consumer_key = "HjOY1Sw8Wjv3fXgeglI0LzszD"
